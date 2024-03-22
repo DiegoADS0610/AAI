@@ -1,0 +1,108 @@
+.montserrat-subrayada-regular {
+    font-family: "Montserrat Subrayada", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .montserrat-subrayada-bold {
+    font-family: "Montserrat Subrayada", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+
+.btns{
+    padding: 7px 15px;
+    margin: 0 10px ;
+    font-size: 16px;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    border-bottom: 2px solid white;
+    color:white
+}
+.btn{
+    padding: 7px 15px;
+    margin: 0 20px ;
+    font-size: 16px;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    border-bottom: 2px solid white;
+    color:white
+}
+
+header{
+    background-color: #05072F;
+}
+body{
+    background-color:#01041B ;
+}
+footer{
+    background-color: #05072F;
+    height: 25vh;
+    position: center;
+}
+footer p{
+    position: center;
+    color: white;
+    text-align: center;
+}
+
+.fecaf{
+    color:#CF092D;
+    text-align: center;
+}
+.music{
+    color: white;
+}
+
+.red{
+    color:#CF092D
+}
+
+.white{
+    color: white
+}
+
+main{
+    background-color: #01041B;
+}
+
+.right {
+    float: right;
+
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+    margin: 0;
+}
+
+h2{
+    font-size: 70px;
+}
+h3{
+    font-size: 20px;
+    color: white;
+}
+
+.down{
+    background-color: #CF092D; 
+    color: #fff; 
+    border: none; 
+    border-radius: 30px;
+    padding: 20px 35px;
+    cursor: pointer;
+}
+
+.go{
+    background-color: #410093;
+    color: #fff; 
+    border: none;
+    border-radius: 30px;
+    padding: 20px 35px;
+    cursor: pointer;
+}
